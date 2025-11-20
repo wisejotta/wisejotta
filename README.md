@@ -76,20 +76,7 @@ I care more about **clean logic, structure, and scalability** than just “prett
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=wisejotta&theme=default&hide_border=false" 
-    alt="GitHub Streak Stats" 
-  />
-</p>
 
-<p align="center">
-  <!-- Top languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?wisejotta&layout=compact&langs_count=8&hide_border=false" 
-    alt="Top Languages" 
-  />
-</p>
 
 ---
 
