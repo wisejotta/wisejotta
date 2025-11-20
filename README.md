@@ -1,10 +1,3 @@
-<!-- Animated typing banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jetro+(Wise)+👋;Junior+Software+Engineer+%7C+Backend-leaning+Full+Stack;MERN+Stack+%7C+Java+%7C+SQL+%7C+APIs;Passionate+about+architecture+and+system+design" alt="Typing SVG" />
-</p>
-
----
-
 ## 👋 About Me
 
 I’m a **Junior Software Engineer** focused on **backend development, system logic, and scalable application design**.
@@ -85,7 +78,7 @@ I care more about **clean logic, structure, and scalability** than just “prett
 <p align="center">
   <!-- Streak stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=wisejottaE&theme=default&hide_border=false" 
+    src="https://streak-stats.demolab.com?user=wisejotta&theme=default&hide_border=false" 
     alt="GitHub Streak Stats" 
   />
 </p>
