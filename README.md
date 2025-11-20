@@ -72,12 +72,12 @@ I care more about **clean logic, structure, and scalability** than just “prett
 
 ## 📊 GitHub Stats (Dynamic)
 
-> 🔁 Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.
+> 
 
 <p align="center">
   <!-- Main stats card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=wisejotta&show_icons=true&theme=default&hide_border=false&count_private=true" 
     alt="GitHub Stats" 
   />
 </p>
@@ -85,7 +85,7 @@ I care more about **clean logic, structure, and scalability** than just “prett
 <p align="center">
   <!-- Streak stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=false" 
+    src="https://streak-stats.demolab.com?user=wisejottaE&theme=default&hide_border=false" 
     alt="GitHub Streak Stats" 
   />
 </p>
@@ -93,7 +93,7 @@ I care more about **clean logic, structure, and scalability** than just “prett
 <p align="center">
   <!-- Top languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?wisejotta&layout=compact&langs_count=8&hide_border=false" 
     alt="Top Languages" 
   />
 </p>
