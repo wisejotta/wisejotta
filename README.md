@@ -10,11 +10,11 @@ My main stack is **MERN**, supported by academic training in **Java, SQL, system
 - system workflows and architecture basics  
 - full-stack features when needed  
 
-I care more about **clean logic, structure, and scalability** than just “pretty UIs”.
+I care more about **clean logic, structure, and scalability** than just “good looking apps”.
 
 ---
 
-## 🧠 What I’m Good At
+## 🧠 What I’m Working With
 
 ### 🖥️ Backend & Architecture
 - Node.js · Express.js  
@@ -29,12 +29,6 @@ I care more about **clean logic, structure, and scalability** than just “prett
 - HTML · CSS  
 - UI debugging and layout fixes  
 
-### 🧱 Programming Fundamentals
-- Java  
-- C#  
-- Visual Basic  
-- OOP basics  
-- Problem decomposition & logical reasoning  
 
 ### 🔧 Tools & Platforms
 - Git · GitHub  
@@ -51,7 +45,8 @@ I care more about **clean logic, structure, and scalability** than just “prett
 - API security & authentication  
 - Scalable Node.js structures  
 - Modern full-stack workflows  
-- Cloud fundamentals (AWS/Azure basics)  
+- Cloud fundamentals (AWS/Azure basics)
+  
 
 ---
 
@@ -130,13 +125,6 @@ Preocupo-me mais com **lógica limpa, estrutura e escalabilidade** do que apenas
   * HTML · CSS
   * Depuração de UI e correções de layout
 
-### 🧱 Fundamentos de Programação
-
-  * Java
-  * C\#
-  * Visual Basic
-  * Fundamentos de POO (Programação Orientada a Objetos)
-  * Decomposição de problemas e raciocínio lógico
 
 ### 🔧 Ferramentas & Plataformas
 
