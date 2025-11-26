@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m a **Junior Software Engineer** focused on **backend development, system logic, and scalable application design**.
+I’m a **Software Engineer** focused on **backend development, system logic, and scalable application design**.
 
 My main stack is **MERN**, supported by academic training in **Java, SQL, systems analysis, and software architecture fundamentals**. I enjoy working on:
 
