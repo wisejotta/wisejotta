@@ -10,6 +10,7 @@ My main stack is **MERN**, supported by academic training in **Java, SQL, system
 - system workflows and architecture basics  
 - full-stack features when needed  
 
+
 I care more about **clean logic, structure, and scalability** than just “good looking apps”.
 
 ---
