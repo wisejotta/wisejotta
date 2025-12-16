@@ -149,9 +149,10 @@ Preocupo-me mais com **lógica limpa, estrutura e escalabilidade** do que apenas
 
 ## 🛠️ Tech Stack em Resumo
 
-\<p align="center"\>
-\<img src="[https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,java,cs,git,vscode,html,css\&perline=6](https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,java,cs,git,vscode,html,css&perline=6)" /\>
-\</p\>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,java,cs,git,vscode,html,css&perline=6" />
+</p>
+
 
 ## 🧩 Filosofia de Engenharia
 
@@ -182,6 +183,3 @@ lógica, clareza, estrutura e responsabilidade na forma como os sistemas são pr
   * 💼 LinkedIn: [linkedin.com/in/jetro-da-costa-70281853](https://linkedin.com/in/jetro-da-costa-70281853)
   * ✉️ Email: **enilson.mvc@gmail.com**
 
------
-
-Posso traduzir e formatar mais algum texto para você?
